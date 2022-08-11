@@ -1,4 +1,4 @@
-package = "kong-plugin-hide-token"
+package = "hide-token"
 version = "0.1.0-1"
 source = {
    url = "https://github.com/AmalAntonyUnity/kong-plugin-hide-token.git"
