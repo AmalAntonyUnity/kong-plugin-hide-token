@@ -13,6 +13,5 @@ build = {
    modules = {
 		["kong.plugins.header-echo.handler"] = "kong/plugins/header-echo/handler.lua",
 		["kong.plugins.header-echo.schema"] = "kong/plugins/header-echo/schema.lua",
-		["kong.plugins.forward-proxy.header_filter"] = "kong/plugins/header-echo/header_filter.lua"
    }
 }
