@@ -11,7 +11,7 @@ dependencies = {}
 build = {
    type = "builtin",
    modules = {
-		["kong.plugins.header-echo.handler"] = "kong/plugins/header-echo/handler.lua",
-		["kong.plugins.header-echo.schema"] = "kong/plugins/header-echo/schema.lua",
+		["kong.plugins.hide-token.handler"] = "kong/plugins/hide-token/handler.lua",
+		["kong.plugins.hide-token.schema"] = "kong/plugins/hide-token/schema.lua",
    }
 }
