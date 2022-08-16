@@ -13,6 +13,6 @@ build = {
    modules = {
 		["kong.plugins.hide-token.handler"] = "kong/plugins/hide-token/handler.lua",
 		["kong.plugins.hide-token.schema"] = "kong/plugins/hide-token/schema.lua",
-		["kong.plugins.hide-token.header_filter"] = "kong/plugins/hide-token/header_filter",
+		["kong.plugins.hide-token.header_filter"] = "kong/plugins/hide-token/header_filter.lua",
    }
 }
