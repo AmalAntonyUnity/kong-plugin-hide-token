@@ -4,7 +4,7 @@ source = {
    url = "https://github.com/AmalAntonyUnity/kong-plugin-hide-token.git"
 }
 description = {
-   homepage = "*** please enter a project homepage ***",
+   homepage = "",
    license = "Apache-2.0"
 }
 dependencies = {}
